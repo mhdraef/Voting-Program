@@ -1,0 +1,86 @@
+Total Number of Votes:3
+
+		For The Head Boy Position
+
+Vote Distribution: 
+
+HB_Candidate1:3
+HB_Candidate2:0
+HB_Candidate3:0
+HB_Candidate4:0
+
+--------------------------
+The elected Head Boy is HB_Candidate1
+
+
+
+		For The Asst.Head Boy Position
+
+Vote Distribution: 
+
+aHB_Candidate1:0
+aHB_Candidate2:3
+aHB_Candidate3:0
+aHB_Candidate4:0
+
+--------------------------
+The elected Asst.Head Boy is aHB_Candidate2
+
+
+
+		For The Sports Captain Position
+
+Vote Distribution: 
+
+SC_Candidate1:0
+SC_Candidate2:0
+SC_Candidate3:3
+SC_Candidate4:0
+
+--------------------------
+The elected Sports Captain is SC_Candidate3
+
+
+
+		For The Asst.Sports Captain Position
+
+Vote Distribution: 
+
+aSC_Candidate1:0
+aSC_Candidate2:0
+aSC_Candidate3:0
+aSC_Candidate4:3
+
+--------------------------
+The elected Asst.Sports Captain is aSC_Candidate4
+
+
+
+		For The General House Captain Position
+
+Vote Distribution: 
+
+HC_Candidate1:2
+HC_Candidate2:1
+HC_Candidate3:0
+HC_Candidate4:0
+
+--------------------------
+The elected General House Captain is HC_Candidate1
+
+
+
+		For The Asst. General House Captain Position
+
+Vote Distribution: 
+
+aHC_Candidate1:0
+aHC_Candidate2:2
+aHC_Candidate3:1
+aHC_Candidate4:0
+
+--------------------------
+The elected Asst. General House Captain is aHC_Candidate2
+
+
+
